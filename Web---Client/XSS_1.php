@@ -10,7 +10,6 @@ if (isset($_GET['COOKIE']) && !empty($_GET['COOKIE']))
   fclose($ck);
   echo $cs;
 }
-
 ?>
 
 <!--
