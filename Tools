@@ -1,3 +1,8 @@
+WEB :
+
 Dirb : Scanner Web ( Dossier caché)
 curl  url terminal ( modification)
 nikto Scanner Web (faille base (fichier sensible ...))
+
+System
+ldd (print shared library)
