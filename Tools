@@ -6,3 +6,5 @@ nikto Scanner Web (faille base (fichier sensible ...))
 
 System
 ldd (print shared library)
+nm liste symbole fichiers ( adresse fonctions ... GREP ?)
+
